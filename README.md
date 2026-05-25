@@ -1,1 +1,3 @@
-# tinder_for_ad(public)
+# Tinder for Ads
+
+> Фронтенд-концепт Tinder-like интерфейса для рекламных и дизайн-экспериментов.
